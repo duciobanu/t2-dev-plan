@@ -1,4 +1,4 @@
-# t2-dev-plan
+# T1 → T2 Development Plan
 
 This development plan is a comprehensive and intensive training program designed to elevate your UI development skills and prepare you for T2-grade roles in Grid Dynamics.
 

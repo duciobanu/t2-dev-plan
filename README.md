@@ -4,22 +4,22 @@ This development plan is a comprehensive and intensive training program designed
 
 ## Course Content
 
-### Module 1. Starting a project from scratch
+- Module 1. Starting a project from scratch
 
-### Module 2. Advanced TypeScript
+- Module 2. Advanced TypeScript
 
-### Module 3. Accessibility & UML
+- Module 3. Accessibility & UML
 
-### Module 4. Design Patterns
+- Module 4. Design Patterns
 
-### Module 5. Client Side Framework
+- Module 5. Client Side Framework
 
-### Module 6. Unit testing
+- Module 6. Unit testing
 
-### Module 7. Node.js
+- Module 7. Node.js
 
-### Module 8. Algorithms and Data Structures
+- Module 8. Algorithms and Data Structures
 
-### Module 9. Cloud Certification Program
+- Module 9. Cloud Certification Program
 
-### Module 10. Final module of UI: T1→T2 development plan
+- Module 10. Final module of UI: T1→T2 development plan

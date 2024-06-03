@@ -31,7 +31,7 @@ This development plan is a comprehensive and intensive training program designed
 ## Commands:
 
 - `npm run test`
-- `npm runt start`
+- `npm run start`
 - `npm run build`
 - `npm run lint`
 - `npm run lint:fix`

@@ -23,3 +23,16 @@ This development plan is a comprehensive and intensive training program designed
 - Module 9. Cloud Certification Program
 
 - Module 10. Final module of UI: T1→T2 development plan
+
+## Installation:
+
+- npm i
+
+## Commands:
+
+- npm run test
+- npm runt start
+- npm run build
+- npm run lint
+- npm run lint:fix
+- npm run format

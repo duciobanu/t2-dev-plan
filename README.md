@@ -26,13 +26,13 @@ This development plan is a comprehensive and intensive training program designed
 
 ## Installation:
 
-- npm i
+- `npm i`
 
 ## Commands:
 
-- npm run test
-- npm runt start
-- npm run build
-- npm run lint
-- npm run lint:fix
-- npm run format
+- `npm run test`
+- `npm runt start`
+- `npm run build`
+- `npm run lint`
+- `npm run lint:fix`
+- `npm run format`
